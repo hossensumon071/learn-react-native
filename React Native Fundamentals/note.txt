@@ -1,0 +1,74 @@
+1. March 26, 20215; 4 years ago
+2. Inside React Native: Javascript, Java, C++, Objective-c, Python
+3. Stable realse, 0.615 / November 23, 2019
+4. License: MIT License
+5. Developer(s) Facebook and community
+
+
+React Native Basic Components 
+   
+    1. View
+        - The most fundamental component for building UI
+
+    2. Text
+        - A component for displaying Text
+
+    3. Image
+        - A component for display images
+
+    4. TextInput
+        - A component for inputing text into the app via a keyboard
+
+    5. ScrollView
+        - Provides a scrolling container that can host multiple components and View
+
+    6. StyleSheet
+        - Provides an abstruction layer similar for CSS styleshet
+
+
+React Native User Interface Components
+
+    1. Button
+        - a basic button component for handling touches that should renders
+        nicely on any platform 
+
+    2. Picker
+        - Renders the native picker components on ANdroid and IOS
+
+    3. Switch
+        - Render a boolean input
+
+
+React NativeListView Components
+    1.FlatList 
+      - A component for rendering performant scrollable lists.
+
+    2. SectionList
+      - Like flatList, but for setioned lists
+
+
+ReactNative IOS Components 
+    1. ActionSheetIOS
+      - API to display an IOS action sheet or share sheet 
+
+ReactNative Andriod Components
+    1. BackHandler
+        - detect hardware button presses for back navigation
+    2. DrawerLayoutAndroid
+        - Renders a DrawerLayout on android 
+    3. PermissionAndroid
+        - Provides access to the permissions model introduced in android M
+    4. DashAndriod
+        - Create an A ndroid Toast alert 
+
+
+ReactNative Others Components
+    1. AcitivityIndicator
+    2. Alert
+    3. Model
+    4. Animated
+    5. Dimensions
+    6. RefreshControl
+    7. KeyboardAndriodView
+    8. Linking
+    9. StatusBar
